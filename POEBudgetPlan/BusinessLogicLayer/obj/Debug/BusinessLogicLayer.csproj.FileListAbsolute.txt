@@ -1,0 +1,12 @@
+C:\Users\Mawethw'Abongile\source\repos\POEBudgetPlan\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\Mawethw'Abongile\source\repos\POEBudgetPlan\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\Mawethw'Abongile\source\repos\POEBudgetPlan\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Mawethw'Abongile\source\repos\POEBudgetPlan\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Mawethw'Abongile\source\repos\POEBudgetPlan\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojAssemblyReference.cache
+C:\Users\Mawethw'Abongile\source\repos\POEBudgetPlan\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\Mawethw'Abongile\source\repos\POEBudgetPlan\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CopyComplete
+C:\Users\Mawethw'Abongile\source\repos\POEBudgetPlan\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Users\Mawethw'Abongile\source\repos\POEBudgetPlan\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+C:\Users\Mawethw'Abongile\source\repos\POEBudgetPlan\BusinessLogicLayer\bin\Debug\POEBudgetPlan.dll
+C:\Users\Mawethw'Abongile\source\repos\POEBudgetPlan\BusinessLogicLayer\bin\Debug\POEBudgetPlan.pdb
+C:\Users\Mawethw'Abongile\source\repos\POEBudgetPlan\BusinessLogicLayer\bin\Debug\POEBudgetPlan.dll.config
